@@ -1,3 +1,3 @@
-# Calculo-Geometrico-Java
+# Exercicio-Java-Cinema
 
-Programa em java onde é possivel realizazr os calculos da área e perimetro de um quadrado, retangulo ou circulo com base nas informações fornecidas pelo usuário.
+Programa em java onde é possivel realizazr a inclusão de funcionarios e clientes, realizar vendas de ingressos de um cinema e ver os salarios dos funcionários 
